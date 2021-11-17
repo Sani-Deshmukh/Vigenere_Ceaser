@@ -1,4 +1,4 @@
-##Mechaics of a Ceaser Cipher
+# Mechaics of a Ceaser Cipher
 
 A Ceaser Cipher is one of the simpler Cipher known to man. It works by shifting letters in the alphabet a certain amount of places to created a different alphabet that is used to encrypt the words.
 
