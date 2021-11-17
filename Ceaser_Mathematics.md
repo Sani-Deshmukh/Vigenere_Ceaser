@@ -12,5 +12,4 @@
      - The formula of encryption is: En (x) = (x + n) mod 26
      - The formula of decryption is: Dn (x) = (xi - n) mod 26
      - There is not much mathematical complexity for this cipher if you are able to just brute force it quite easily.
-     
-![Picture](https://cdn.kastatic.org/ka-perseus-images/fa440c215bd56259158b31d60207d8eb8d053502.png)
+![This is an image](https://cdn.kastatic.org/ka-perseus-images/fa440c215bd56259158b31d60207d8eb8d053502.png)
