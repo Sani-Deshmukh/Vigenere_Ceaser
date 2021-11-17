@@ -2,4 +2,4 @@
 * [History](Caesar_history.md)
 * [Mechanics](Ceaser_Mechanics.md)
 * [Mathematical Analysis](Caesar_Mathematics.md)
-* [Computer Code](caesar_code.md)
+* [Computer Code](Caesar_code.md)
