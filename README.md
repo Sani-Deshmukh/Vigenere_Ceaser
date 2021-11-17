@@ -1,2 +1,5 @@
 # Vigenere_Ceaser
-* [History](caesar_history.md)
+* [History](Caesar_history.md)
+* [Mechanics](Ceaser_Mechanics.md)
+* [Mathematical Analysis](Caesar_Mathematics.md)
+* [Computer Code](caesar_code.md)
