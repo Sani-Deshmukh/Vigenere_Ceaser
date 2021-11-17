@@ -12,4 +12,4 @@
      - The formula of encryption is: En (x) = (x + n) mod 26
      - The formula of decryption is: Dn (x) = (xi - n) mod 26
      - There is not much mathematical complexity for this cipher if you are able to just brute force it quite easily.
-![This is an image](https://cdn.kastatic.org/ka-perseus-images/c662e89053dc7c3c9adce284aaeacec13896a629.png)
+![This is an image](https://privacycanada.net/wp-content/uploads/2020/01/Roth-13-Cipher.png)
