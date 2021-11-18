@@ -2,7 +2,7 @@ A Vigenere Cipher consists of multiple Ceaser Cipher. It is viewed as a grid mad
 
 ![Vigenere Cipher](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-94818-8_5/MediaObjects/450852_1_En_5_Fig1_HTML.gif)
 
-First youd get a key and then with that key make it the same length as the word you are encrypting. For example if your key is dog and the word you're encrypting is hello the key would end up being dogdo.
+First youd get a key and then with that key make it the same length as the word you are encrypting. For example if your key is "dog" and the word you're encrypting is "hello" the key would end up being dogdo.
 
 Then using the rows for the word to be encrypted and the column for the key you take the letters in the same position and match them to the letter where they meet.
 
