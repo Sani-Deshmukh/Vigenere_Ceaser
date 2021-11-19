@@ -2,9 +2,9 @@
 # Ceaser
 * [History](Caesar_history.md)
 * [Mechanics](Caeser_Mechanics.md)
-* [Mathematical Analysis](Caesar_Mathematics.md)
+* [Mathematical Analysis](Caeser_Mathematics.md)
 * [Computer Code](Caesar_code.md)
-* [Final Analysis](Caesar_Final.md)
+* [Final Analysis](Caeser_Final.md)
 
 # Vigenere_Ceaser
 - [Historical Context](Vigenere_History.md)
